@@ -1,0 +1,106 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'M PLUS Code Latin', sans-serif;
+    background-color: #e7e5c3;
+}
+
+h1 {
+    font-weight: bold;
+    margin: auto;
+    font-size: 560%;
+    color: #781D42;
+}
+
+h2 {
+    font-weight: bold;
+    color: #781D42;
+}
+
+h3 {
+    font-weight: bold;
+    color: #781D42;
+}
+
+hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.top-container {
+    background-color: #e7e5c3;
+    position: relative;
+    padding-top: 50px;
+}
+
+.middle-container {
+}
+
+.bottom-container {
+    margin-top: 30px;
+}
+
+
+/* Text */
+.skills-text {
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    line-height: 2;
+}
+
+/* Images and GIFs */
+.cool-cat-gif {
+    top: 0;
+    position: absolute;
+    padding-left: 230px;
+    height: 150px;
+    width: 150px;
+}
+
+.profile {
+    position: relative;
+}
+
+.top-fire {
+    position: absolute;
+    top: 150px;
+    right: 300px;
+}
+
+.bottom-fire {
+    position: absolute;
+    left: 300px;
+    top: 150px;
+}
+
+.profile_picture {
+    border-radius: 50%;
+    margin-top: 20px;
+}
+
+.julius-caesar-gif {
+    width: 1200px;
+    height: 800px;
+    margin: auto;
+}
+
+
+/* Button */
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Courier New;
+    color: #ffffff;
+    font-size: 20px;
+    background: #781D42;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #A13333;
+    text-decoration: none;
+  }
